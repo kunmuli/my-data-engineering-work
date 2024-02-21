@@ -19,3 +19,4 @@ Datasets/*
 *.sh
 data_pgadmin
 __init__.py
+02-workflow-orchestration/mage-zoomcamp
