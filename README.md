@@ -21,7 +21,7 @@
 
 [More details](02-workflow-orchestration/)
 
-### [Workshop 1: Data Ingestion](cohorts/2024/workshops/dlt.md)
+### [Workshop 1: Data Ingestion](workshops/dlt.md)
 
 - Reading from apis
 - Building scalable pipelines
@@ -29,7 +29,7 @@
 - Incremental loading
 - Homework
 
-[More details](cohorts/2024/workshops/dlt.md)
+[More details](workshops/dlt.md)
 
 ### [Module 3: Data Warehouse](03-data-warehouse/)
 
@@ -74,9 +74,9 @@
 
 [More details](06-streaming/)
 
-### [Workshop 2: Stream Processing with SQL](cohorts/2024/workshops/rising-wave.md)
+### [Workshop 2: Stream Processing with SQL](workshops/rising-wave.md)
 
-[More details](cohorts/2024/workshops/rising-wave.md)
+[More details](workshops/rising-wave.md)
 
 ### [Project](projects)
 
