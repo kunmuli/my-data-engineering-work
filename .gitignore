@@ -20,3 +20,5 @@ Datasets/*
 data_pgadmin
 __init__.py
 02-workflow-orchestration/mage-zoomcamp
+*.duckdb
+*.duckdb.*
