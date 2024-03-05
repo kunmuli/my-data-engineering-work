@@ -22,3 +22,5 @@ __init__.py
 02-workflow-orchestration/mage-zoomcamp
 *.duckdb
 *.duckdb.*
+*.csv.gz
+*.parquet
