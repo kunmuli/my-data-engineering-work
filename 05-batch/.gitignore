@@ -1,0 +1,10 @@
+code/data
+code/fhvhv
+code/zones
+code/tmp
+tmp/*
+*.crc
+*.jar
+*.csv.gz
+*.csv
+*.csv.gz.*
